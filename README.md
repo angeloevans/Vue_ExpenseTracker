@@ -1,6 +1,10 @@
 # vue-expense-tracker
 
-A simple Expence Tracker with VUE framework using LocalStorage to Store Data
+A simple Expence Tracker with VUE framework 
+
+Add and remove expenses/income
+Track balance
+Save data to local storage
 
 ## Recommended IDE Setup
 
