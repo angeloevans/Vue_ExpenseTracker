@@ -2,7 +2,7 @@
 
 A simple Expence Tracker with VUE framework 
 
-Add and remove expenses/income
+Add and remove expenses/income 
 Track balance
 Save data to local storage
 
